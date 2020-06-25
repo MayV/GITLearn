@@ -1,5 +1,9 @@
 #include <stdio.h>
 
-int main() {
+void HelloWorld() {
 	printf("Hello World. How are you?");
+}
+
+int main() {
+	HelloWorld();
 }
