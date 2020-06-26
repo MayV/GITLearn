@@ -5,6 +5,7 @@ void HelloWorld() {
 }
 
 void greetingFunctionStub() {
+	printf("Greetings!")
 }
 
 int main() {
